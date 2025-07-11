@@ -39,4 +39,4 @@ npm start
 ```
 
 📹 Demo Video
-Watch the full walkthrough here:
+Watch the full walkthrough here: https://drive.google.com/file/d/1Oj3CsZcHu2hySSJiCDDCXmuhPDkg5jeK/view
