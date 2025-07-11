@@ -72,7 +72,7 @@ export const InputPanel = () => {
         </div>)}
       {insert &&
         (<div className="w-3/5 mb-2 flex justify-end">
-          <div className="w-1/2 text-sm/normal rounded-lg bg-gray-100 m-2 p-2">{input}</div>
+          <div className="w-auto text-sm/normal rounded-lg bg-gray-100 m-2 px-2 p-2">{input}</div>
         </div>)
       }
     </div>
