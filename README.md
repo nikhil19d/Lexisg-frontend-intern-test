@@ -21,11 +21,7 @@ Make sure you have the following installed:
 git clone https://github.com/nikhil19d/your-repo-name.git
 cd your-repo-name
 ```
-```
-```
-```
 
-```
 2. Install dependencies:
 ```bash
 npm install
@@ -36,7 +32,6 @@ npm install
 
 npm start
 ```
-```
 
 📹 Demo Video
-Watch the full walkthrough here: https://drive.google.com/file/d/1Oj3CsZcHu2hySSJiCDDCXmuhPDkg5jeK/view
+  Watch the full walkthrough here: https://drive.google.com/file/d/1Oj3CsZcHu2hySSJiCDDCXmuhPDkg5jeK/view
